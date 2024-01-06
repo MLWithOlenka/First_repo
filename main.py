@@ -20,3 +20,4 @@ total_cents = int(total_cost * 100)
 # Вивід результату
 print(f"Загальна вартість у повних доларах: {total_dollars} доларів")
 print(f"Загальна вартість у центах: {total_cents} центів")
+#ghfjnfgh
